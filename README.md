@@ -1,1 +1,1 @@
-# wake-pi
+# [PUBLIC] Wake-pi (stand competition)
